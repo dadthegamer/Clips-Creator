@@ -1,0 +1,9 @@
+{
+    "clip length": 90,
+    "vcodec": "libx264",
+    "videoquality": 24,
+    "compression": "medium",
+    "fps": 60,
+    "threads": 16,
+    "directory": "C:/Users/baile/Desktop/Clips"
+}
